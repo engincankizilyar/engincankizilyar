@@ -5,5 +5,3 @@
 - 📫 How to reach me: engincankzlyr23@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=engincankizilyar&color=dc143c&style=for-the-badge)
-
-![](https://github-readme-stats.vercel.app/api?username=engincankizilyar&show_icons=true&theme=tokyonight)
