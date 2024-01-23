@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engincan Kızılyar,</h1>
 <h3 align="center">A passionate Mobile Application Developer / Computer Engineer</h3>
 
-- 💻 I'm currently working as **Mobile Developer (React-Native)**
+- 💻 I'm currently working as **Mobile Application Developer (React-Native)**
 
 - 🌱 I’m currently learning **native mobile development languages (Swift for iOS, Java & Kotlin for Android)**
 
